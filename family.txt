@@ -232,7 +232,7 @@ Seth Gabino O. Obligacion
 Bryce Eoghan O. Obligacion
  l: Jun. 22-
  n: ?
- p: simpsons/28.png
+ p: 28.png
 
 Syl Kristel C. Obedencio + Janil Abdullah Macasiro
  c: Ilona Elspeth O. Macasiro, Bo Edwards O. Macasiro, Shiloh Brielle O. Macasiro

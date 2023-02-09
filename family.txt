@@ -69,7 +69,6 @@ Virgin Obedencio Alvarez
  n: ?
 Severino B. Obedencio Jr
  n: Jun/Junic
- l: July 9, 1955 - July 19, 2022
 Alex B. Obedencio
  n: ?
 
@@ -185,25 +184,23 @@ Vernel O. Alvarez + <Vernel's Wife> Alvarez
 Severino B. Obedencio Jr + Esterlita Alin Cutab
  c: Jam Kishore C. Obedencio, Christine Jan O. Obligacion, Syl Kristel C. Obedencio, Jan Mark C. Obedencio, Kris Shaira C. Obedencio, Jan Paul C. Obedencio
 Esterlita Alin Cutab
- l: Jul. 17, 1961 - Apr. 11, 2022
  n: Lita
 Jam Kishore C. Obedencio
- l: Nov. 23, 1983 - March 11, 2015
  n: ?
 Christine Jan O. Obligacion
- l: Dec. 3, 1984-
+ l: Dec. 3-
  n: ?
 Syl Kristel C. Obedencio
- l: Dec. 11, 1985-
+ l: Dec. 11-
  n: ?
 Jan Mark C. Obedencio
- l: May 20, 1987-
+ l: May 20-
  n: https://fb.com/juanmarcus
 Kris Shaira C. Obedencio
- l: Jan. 1, 1998-
+ l: Jan. 1-
  n: ?
 Jan Paul C. Obedencio
- l: Sept. 7, 1999-
+ l: Sept. 7-
  n: ?
 
 Jan Mark C. Obedencio + IU
@@ -216,10 +213,10 @@ Jam Kishore C. Obedencio + Hazel Paguray
  c: Luke Martin P. Obedencio, Sammuel Lisle P. Obedencio
  n: ?
 Luke Martin P. Obedencio
- l: Oct. 2, 2005-
+ l: Oct. 2-
  n: ?
 Sammuel Lisle P. Obedencio
- l: Apr. 14, 2009-
+ l: Apr. 14-
  n: ?
 Anna Lovella Aranico + Jam Kishore C. Obedencio 
  n: ?
@@ -230,10 +227,10 @@ Christine Jan O. Obligacion + Hernando Obligacion
  c: Seth Gabino O. Obligacion, Bryce Eoghan O. Obligacion
  n: <>
 Seth Gabino O. Obligacion
- l: Apr. 4, 2010-
+ l: Apr. 4-
  n: ?
 Bryce Eoghan O. Obligacion
- l: Jun. 22, 2013-
+ l: Jun. 22-
  n: ?
  p: simpsons/28.png
 
@@ -241,13 +238,13 @@ Syl Kristel C. Obedencio + Janil Abdullah Macasiro
  c: Ilona Elspeth O. Macasiro, Bo Edwards O. Macasiro, Shiloh Brielle O. Macasiro
  n: ?
 Ilona Elspeth O. Macasiro
- l: Nov. 18, 2010-
+ l: Nov. 18-
  n: ?
 Bo Edwards O. Macasiro
- l: July 16, 2012-
+ l: July 16-
  n: ?
 Shiloh Brielle O. Macasiro
- l: July 18, 2022-
+ l: July 18-
  n: ?
 
 Alex B. Obedencio + Rose Leal

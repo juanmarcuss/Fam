@@ -60,7 +60,7 @@ Jeros Pfolo Abejan
 
 
 Rosario Armilla Brigente + Severino D. Obedencio Sr.
- c: Natividad Daraman, Fe Natinga, Virgin Alvarez, Severino Obedencio Jr, Alex Obedencio
+ c: Natividad Daraman, Fe Natinga, Virgin Alvarez, Severino Obedencio Jr., Alex Obedencio
 Rosario Armilla Brigente
  n: Sayong
 Natividad Daraman
@@ -69,7 +69,7 @@ Fe Natinga
  n: Ging-ging
 Virgin Alvarez
  n: ?
-Severino Obedencio Jr
+Severino Obedencio Jr.
  n: Jun/Junic
 Alex Obedencio
  n: ?
@@ -183,7 +183,7 @@ Vernel Alvarez + <Vernel's Wife> Alvarez
  n: ?
 
 
-Severino B. Obedencio Jr + Esterlita C. Obedencio
+Severino Obedencio Jr. + Esterlita C. Obedencio
  c: Jam Kishore Obedencio, Christine Jan Obligacion, Syl Kristel Obedencio, Jan Mark Obedencio, Kris Shaira Obedencio, Jan Paul Obedencio
 Esterlita C. Obedencio
  n: Lita

@@ -185,7 +185,7 @@ Vernel Alvarez + <Vernel's Wife> Alvarez
 
 Severino B. Obedencio Jr + Esterlita C. Obedencio
  c: Jam Kishore Obedencio, Christine Jan Obligacion, Syl Kristel Obedencio, Jan Mark Obedencio, Kris Shaira Obedencio, Jan Paul Obedencio
-Esterlita A. Cutab
+Esterlita C. Obedencio
  n: Lita
 Jam Kishore Obedencio
  n: ?
@@ -207,7 +207,6 @@ Jan Paul Obedencio
 
 Jan Mark Obedencio + IU
  c: ?
-
 IU
  p: IU.png
 
@@ -217,7 +216,7 @@ Jam Kishore Obedencio + Hazel Paguray
 Luke Martin Obedencio
  l: Oct. 2-
  n: ?
-Sammuel Lisle P. Obedencio
+Sammuel Lisle Obedencio
  l: Apr. 14-
  n: ?
 Anna Lovella Aranico + Jam Kishore Obedencio 
@@ -239,13 +238,13 @@ Bryce Eoghan Obligacion
 Syl Kristel Obedencio + Janil Macasiro
  c: Ilona Elspeth Macasiro, Bo Edwards Macasiro, Shiloh Brielle Macasiro
  n: ?
-Ilona Elspeth O. Macasiro
+Ilona Elspeth Macasiro
  l: Nov. 18-
  n: ?
-Bo Edwards O. Macasiro
+Bo Edwards Macasiro
  l: July 16-
  n: ?
-Shiloh Brielle O. Macasiro
+Shiloh Brielle Macasiro
  l: July 18-
  n: ?
 

@@ -1,0 +1,289 @@
+Severino Daminar Obedencio Sr. + Mama ni Poping
+ c: Poping Baslot
+Severino Daminar Obedencio Sr.
+ n: Siling
+Mama ni Poping
+ n: ?
+Poping Baslot
+ n: ?
+
+
+Poping Baslot + Nene Nanol Baslot
+ c: Joel N. Baslot, Mervin Randy N. Baslot, Myla Mae N. Baslot
+Joel N. Baslot
+ n: ?
+Myla Mae N. Baslot
+ n: Mimi
+Mervin Randy N. Baslot
+ n: ?
+
+Joel N. Baslot + Josephine Tropezado Baslot
+ c: Joel Joseph T. Baslot, <Child Joel 2> Baslot, Nash T. Baslot
+Josephine Tropezado Baslot
+ n: ?
+Joel Joseph T. Baslot
+ n: ?
+<Child Joel 2> Baslot
+ n: ?
+Nash T. Baslot
+ n: ?
+
+Mervin Randy N. Baslot + Angging A. Baslot
+ c: Thyrell Luizuinni A. Baslot, Trisha A. Baslot, Tristan A. Baslot
+Angging A. Baslot
+ n: ?
+Thyrell Luizuinni A. Baslot
+ n: ?
+Trisha A. Baslot
+ n: ?
+Tristan A. Baslot
+ n: ?
+
+Myla Mae N. Baslot + <?> Siap/Abejan
+ c: Pfyke Wenzy Arthur B. Siap, Pfyke Evenxzer B. Siap, Shem Japeth B. Abejan, R. C. B. Abejan, Jeros Pfolo B. Abejan
+Ulysses Sara Hubahib + Myla Mae N. Baslot
+ n: ?
+Ulysses Sara Hubahib
+ n: Bong
+Pfyke Wenzy Arthur B. Siap
+ n: ?
+Pfyke Evenxzer B. Siap
+ n: ?
+Shem Japeth B. Abejan
+ n: ?
+R. C. B. Abejan
+ n: Koko
+Jeros Pfolo B. Abejan
+ n: JP
+
+
+Rosario Armilla Brigente + Severino Daminar Obedencio Sr.
+ c: Natividad Obedencio Daraman, Fe Obedencio Natinga, Virgin Obedencio Alvarez, Severino B. Obedencio Jr, Alex B. Obedencio
+Rosario Armilla Brigente
+ n: Sayong
+Natividad Obedencio Daraman
+ n: Naty
+Fe Obedencio Natinga
+ n: Ging-ging
+Virgin Obedencio Alvarez
+ n: ?
+Severino B. Obedencio Jr
+ n: Jun/Junic
+ l: July 9, 1955 - July 19, 2022
+Alex B. Obedencio
+ n: ?
+
+
+Natividad Obedencio Daraman + Porfirio Daraman
+ c: Dahlia Leah Daraman Guray, Durell Neil O. Daraman, Darcy Lou O. Daraman
+Porfirio Daraman
+ n: Dario
+Dahlia Leah Daraman Guray
+ n: Dolly
+Durell Neil O. Daraman
+ n: ?
+Darcy Lou O. Daraman
+ n: ?
+
+Dahlia Leah Daraman Guray + Mauro Pal-ing Guray
+ c: Morie Dale O. Guray, Maurie Dale O. Guray, Maui Dale O. Guray, Dale Vincent O. Guray
+Mauro Pal-ing Guray
+ n: ?
+Morie Dale O. Guray
+ n: B1
+Maurie Dale O. Guray
+ n: B2
+Maui Dale O. Guray
+ n: ?
+Dale Vincent O. Guray
+ n: Enting
+
+Durell Neil O. Daraman + Russell Rebleza Daraman
+ c: Dovie Alna R. Daraman, Ayisha Sen R. Daraman, <Child Durell 3> R. Daraman
+Russell Rebleza Daraman
+ n: ?
+Dovie Alna R. Daraman
+ n: ?
+Ayisha Sen R. Daraman
+ n: ?
+<Child Durell 3> R. Daraman
+ n: ?
+
+Dovie Alna R. Daraman + ?
+ c: Theo Daraman
+Theo Daraman
+ n: ?
+
+Darcy Lou O. Daraman + ?
+ c: <Child Darcy 1> Daraman
+
+
+Fe Obedencio Natinga + Romeo Natinga Sr.
+ c: Gladys Natinga Engaño, Romeo Natinga Jr.
+Romeo Natinga Sr.
+ n: ?
+Gladys Natinga Engaño
+ n: ?
+Romeo Natinga Jr.
+ n: ?
+
+Gladys Natinga Engaño + Remuel Engaño
+ c: Angel N. Engaño, Remgladz N. Engaño
+Remuel Engaño
+ n: ?
+Angel N. Engaño
+ n: ?
+Remgladz N. Engaño
+ n: Sigpao
+
+
+Virgin Obedencio Alvarez + Intoy Alvarez
+ c: Zenever A. Licuanan, Genruly O. Alvarez Sr., Gerwin O. Alvarez, Vernel O. Alvarez, Claire O. Alvarez
+Intoy Alvarez
+ n: ?
+Zenever A. Licuanan
+ n: ?
+Genruly O. Alvarez Sr.
+ n: ?
+Gerwin O. Alvarez
+ n: ?
+Vernel O. Alvarez
+ n: ?
+Claire O. Alvarez
+ n: ?
+
+Zenever A. Licuanan + Tim Licuanan
+ c: Twinkle Gwyneth A. Licuanan, Gail A. Licuanan
+Tim Licuanan
+ n: ?
+Twinkle Gwyneth A. Licuanan
+ n: ?
+Gail A. Licuanan
+ n: ?
+
+
+Genruly O. Alvarez Sr. + Gigi Ybañez Alvarez
+ c: Genruly Y. Alvarez Jr., Genvir Y. Alvarez
+Gigi Ybañez Alvarez
+ n: ?
+Genruly Y. Alvarez Jr.
+ n: ?
+Genvir Y. Alvarez
+ n: ?
+
+Gerwin O. Alvarez + <Gerwin's Wife> Alvarez
+ c: <Child Gerwin> Alvarez
+
+Vernel O. Alvarez + <Vernel's Wife> Alvarez
+ c: <Child Vernel 1> Alvarez, <Child Vernel 2> Alvarez
+<Child Vernel 1> Alvarez
+ n: ?
+<Child Vernel 2> Alvarez
+ n: ?
+
+
+Severino B. Obedencio Jr + Esterlita Alin Cutab
+ c: Jam Kishore C. Obedencio, Christine Jan O. Obligacion, Syl Kristel C. Obedencio, Jan Mark C. Obedencio, Kris Shaira C. Obedencio, Jan Paul C. Obedencio
+Esterlita Alin Cutab
+ l: Jul. 17, 1961 - Apr. 11, 2022
+ n: Lita
+Jam Kishore C. Obedencio
+ l: Nov. 23, 1983 - March 11, 2015
+ n: ?
+Christine Jan O. Obligacion
+ l: Dec. 3, 1984-
+ n: ?
+Syl Kristel C. Obedencio
+ l: Dec. 11, 1985-
+ n: ?
+Jan Mark C. Obedencio
+ l: May 20, 1987-
+ n: https://fb.com/juanmarcus
+Kris Shaira C. Obedencio
+ l: Jan. 1, 1998-
+ n: ?
+Jan Paul C. Obedencio
+ l: Sept. 7, 1999-
+ n: ?
+
+Jan Mark C. Obedencio + IU
+ c: ?
+
+IU
+ p: IU.png
+
+Jam Kishore C. Obedencio + Hazel Paguray
+ c: Luke Martin P. Obedencio, Sammuel Lisle P. Obedencio
+ n: ?
+Luke Martin P. Obedencio
+ l: Oct. 2, 2005-
+ n: ?
+Sammuel Lisle P. Obedencio
+ l: Apr. 14, 2009-
+ n: ?
+Anna Lovella Aranico + Jam Kishore C. Obedencio 
+ n: ?
+Hazel Paguray + John Dave Ruales
+ c: Arianne Juannave P. Ruales
+
+Christine Jan O. Obligacion + Hernando Obligacion
+ c: Seth Gabino O. Obligacion, Bryce Eoghan O. Obligacion
+ n: <>
+Seth Gabino O. Obligacion
+ l: Apr. 4, 2010-
+ n: ?
+Bryce Eoghan O. Obligacion
+ l: Jun. 22, 2013-
+ n: ?
+ p: 28.png
+
+Syl Kristel C. Obedencio + Janil Abdullah Macasiro
+ c: Ilona Elspeth O. Macasiro, Bo Edwards O. Macasiro, Shiloh Brielle O. Macasiro
+ n: ?
+Ilona Elspeth O. Macasiro
+ l: Nov. 18, 2010-
+ n: ?
+Bo Edwards O. Macasiro
+ l: July 16, 2012-
+ n: ?
+Shiloh Brielle O. Macasiro
+ l: July 18, 2022-
+ n: ?
+
+Alex B. Obedencio + Rose Leal
+ c: Alyssa Rose L. Obedencio, Jan Alexandre L. Obedencio, Alec Joven L. Obedencio, Jov Allen L. Obedencio, Alvin L. Obedencio, Alison L. Obedencio
+Rose Leal
+ n: ?
+Alyssa Rose L. Obedencio
+ n: ?
+Jan Alexandre L. Obedencio
+ n: ?
+Alec Joven L. Obedencio
+ n: ?
+Jov Allen L. Obedencio
+ n: ?
+Alvin L. Obedencio
+ n: ?
+Alison L. Obedencio
+ n: ?
+
+Jan Alexandre L. Obedencio + Maria Elena Caramat
+ c: Mariabella Empress C. Obedencio
+Maria Elena Caramat
+ n: ?
+Mariabella Empress C. Obedencio
+ n: ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+

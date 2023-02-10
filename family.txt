@@ -1,5 +1,66 @@
+Severino D. Obedencio Sr. + Mama ni Poping
+ c: Poping Baslot
+Severino D. Obedencio Sr.
+ n: Siling
+Mama ni Poping
+ n: ?
+Poping Baslot
+ n: ?
+
+
+Poping Baslot + Nene N. Baslot
+ c: Joel Baslot, Randy Baslot, Myla Baslot
+Nene N. Baslot
+ n: ?
+Joel Baslot
+ n: ?
+Myla Baslot
+ n: Mimi
+Randy Baslot
+ n: ?
+
+Joel Baslot + Josephine T. Baslot
+ c: Joel Joseph, <Child Joel 2>, Nash
+Josephine T. Baslot
+ n: ?
+Joel Joseph
+ n: ?
+<Child Joel 2>
+ n: ?
+Nash
+ n: ?
+
+Randy Baslot + Angging A. Baslot
+ c: Thyrell Luizuinni, Trisha, Tristan
+Angging A. Baslot
+ n: ?
+Thyrell Luizuinni
+ n: ?
+Trisha
+ n: ?
+Tristan
+ n: ?
+
+Myla Baslot + <?> Siap/Abejan
+ c: Pfyke Wenzy Arthur Siap, Pfyke Evenxzer Siap, Shem Japeth Abejan, R. C. Abejan, Jeros Pfolo Abejan
+Ulysses Sara + Myla Baslot
+ n: ?
+Ulysses Sara
+ n: Bong
+Pfyke Wenzy Arthur Siap
+ n: ?
+Pfyke Evenxzer Siap
+ n: ?
+Shem Japeth Abejan
+ n: ?
+R. C. B. Abejan
+ n: Koko
+Jeros Pfolo Abejan
+ n: JP
+
+
 Rosario Armilla Brigente + Severino D. Obedencio Sr.
- c: Natividad Daraman, Fe Natinga, Virgin Alvarez, Severino Obedencio Jr., Alex Obedencio
+ c: Natividad Daraman, Fe Natinga, Virgin Alvarez, Severino Obedencio Jr, Alex Obedencio
 Rosario Armilla Brigente
  n: Sayong
 Natividad Daraman
@@ -8,15 +69,123 @@ Fe Natinga
  n: Ging-ging
 Virgin Alvarez
  n: ?
-Severino Obedencio Jr.
+Severino Obedencio Jr
  n: Jun/Junic
 Alex Obedencio
  n: ?
 
 
-Severino Obedencio Jr. + Esterlita C. Obedencio
+Natividad Daraman + Porfirio Daraman
+ c: Dahlia Leah Guray, Durell Neil Daraman, Darcy Lou Daraman
+Porfirio Daraman
+ n: Dario
+Dahlia Leah Guray
+ n: Dolly
+Durell Neil Daraman
+ n: ?
+Darcy Lou Daraman
+ n: ?
+
+Dahlia Leah Guray + Mauro P. Guray
+ c: Morie Dale Guray, Maurie Dale Guray, Maui Dale Guray, Dale Vincent Guray
+Mauro P. Guray
+ n: ?
+Morie Dale Guray
+ n: B1
+Maurie Dale Guray
+ n: B2
+Maui Dale Guray
+ n: ?
+Dale Vincent Guray
+ n: Enting
+
+Durell Neil Daraman + Russell R. Daraman
+ c: Dovie Alna Daraman, Ayisha Sen Daraman, <Child Durell 3> Daraman
+Russell R. Daraman
+ n: ?
+Dovie Alna Daraman
+ n: ?
+Ayisha Sen Daraman
+ n: ?
+<Child Durell 3> Daraman
+ n: ?
+
+Dovie Alna Daraman + ?
+ c: Theo Daraman
+Theo Daraman
+ n: ?
+
+Darcy Lou Daraman + ?
+ c: <Child Darcy 1> Daraman
+
+
+Fe Natinga + Romeo Natinga Sr.
+ c: Gladys Engaño, Romeo Natinga Jr.
+Romeo Natinga Sr.
+ n: ?
+Gladys Engaño
+ n: ?
+Romeo Natinga Jr.
+ n: ?
+
+Gladys Engaño + Remuel Engaño
+ c: Angel Engaño, Remgladz Engaño
+Remuel Engaño
+ n: ?
+Angel Engaño
+ n: ?
+Remgladz Engaño
+ n: Sigpao
+
+
+Virgin Alvarez + Intoy Alvarez
+ c: Zenever Licuanan, Genruly Alvarez Sr., Gerwin Alvarez, Vernel Alvarez, Claire Alvarez
+Intoy Alvarez
+ n: ?
+Zenever Licuanan
+ n: ?
+Genruly Alvarez Sr.
+ n: ?
+Gerwin Alvarez
+ n: ?
+Vernel Alvarez
+ n: ?
+Claire Alvarez
+ n: ?
+
+Zenever Licuanan + Tim Licuanan
+ c: Twinkle Gwyneth Licuanan, Gail Licuanan
+Tim Licuanan
+ n: ?
+Twinkle Gwyneth Licuanan
+ n: ?
+Gail Licuanan
+ n: ?
+
+
+Genruly Alvarez Sr. + Gigi Y. Alvarez
+ c: Genruly Alvarez Jr., Genvir Alvarez
+Gigi Y. Alvarez
+ n: ?
+Genruly Alvarez Jr.
+ n: ?
+Genvir Alvarez
+ n: ?
+
+Gerwin Alvarez + <Gerwin's Wife> Alvarez
+ c: <Child Gerwin> Alvarez
+
+Vernel Alvarez + <Vernel's Wife> Alvarez
+ c: <Child Vernel 1> Alvarez, <Child Vernel 2> Alvarez
+<Child Vernel 1> Alvarez
+ n: ?
+<Child Vernel 2> Alvarez
+ n: ?
+
+
+Severino B. Obedencio Jr + Esterlita Cutab
  c: Jam Kishore Obedencio, Christine Jan Obligacion, Syl Kristel Obedencio, Jan Mark Obedencio, Kris Shaira Obedencio, Jan Paul Obedencio
-Esterlita C. Obedencio
+Esterlita A. Cutab
  n: Lita
 Jam Kishore Obedencio
  n: ?
@@ -38,6 +207,7 @@ Jan Paul Obedencio
 
 Jan Mark Obedencio + IU
  c: ?
+
 IU
  p: IU.png
 
@@ -47,7 +217,7 @@ Jam Kishore Obedencio + Hazel Paguray
 Luke Martin Obedencio
  l: Oct. 2-
  n: ?
-Sammuel Lisle Obedencio
+Sammuel Lisle P. Obedencio
  l: Apr. 14-
  n: ?
 Anna Lovella Aranico + Jam Kishore Obedencio 
@@ -69,12 +239,50 @@ Bryce Eoghan Obligacion
 Syl Kristel Obedencio + Janil Macasiro
  c: Ilona Elspeth Macasiro, Bo Edwards Macasiro, Shiloh Brielle Macasiro
  n: ?
-Ilona Elspeth Macasiro
+Ilona Elspeth O. Macasiro
  l: Nov. 18-
  n: ?
-Bo Edwards Macasiro
+Bo Edwards O. Macasiro
  l: July 16-
  n: ?
-Shiloh Brielle Macasiro
+Shiloh Brielle O. Macasiro
  l: July 18-
  n: ?
+
+Alex B. Obedencio + Rose L. Obedencio
+ c: Alyssa Rose Obedencio, Jan Alexandre Obedencio, Alec Joven Obedencio, Jov Allen Obedencio, Alvin Obedencio, Alison Obedencio
+Rose L. Obedencio
+ n: ?
+Alyssa Rose Obedencio
+ n: ?
+Jan Alexandre Obedencio
+ n: ?
+Alec Joven Obedencio
+ n: ?
+Jov Allen Obedencio
+ n: ?
+Alvin Obedencio
+ n: ?
+Alison Obedencio
+ n: ?
+
+Jan Alexandre Obedencio + Maria Elena C. Obedencio
+ c: Mariabella Empress Obedencio
+Maria Elena C. Obedencio
+ n: ?
+Mariabella Empress Obedencio
+ n: ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
